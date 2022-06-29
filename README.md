@@ -8,7 +8,7 @@ Skills: **REACT / JS / HTML / CSS**
 - 👯 I’m looking to collaborate on _Javascript projects_.
 - 💬 Ask me about **Javascript,HTML,CSS**.
 - 📫 How to reach me: aryanpatel2725@gmail.com
-- 😄 Pronouns: Eli Shane!
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: **tabs over spaces and Vscode over Atom**
 
 ## 🌐 Socials:
