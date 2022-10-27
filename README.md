@@ -5,7 +5,7 @@
 
 <img width="50%" align="right" alt="Github" src="./68747470733a2f2f632e74656e6f722e636f6d2f7a6e38697975736550746741414141432f74656e6f722e676966.gif" />
 
-- 👨‍💻 Check out my portfolio at [here](https://my-portfolio-ten-pearl.vercel.app/)
+- 👨‍💻 Check out my portfolio at [here](https://aryan2725.netlify.app/)
 
 - 💬 Ask me about **Web Development**
 
