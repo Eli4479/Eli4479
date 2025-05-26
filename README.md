@@ -109,6 +109,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1631](https://github.com/TypeCellOS/BlockNote/issues/1631) in [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
+2. 🗣 Commented on [#1631](https://github.com/TypeCellOS/BlockNote/issues/1631) in [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
+3. 💪 Opened PR [#34](https://github.com/binbard/leet-xt/pull/34) in [binbard/leet-xt](https://github.com/binbard/leet-xt)
+4. 🗣 Commented on [#32](https://github.com/binbard/leet-xt/issues/32) in [binbard/leet-xt](https://github.com/binbard/leet-xt)
 <!--END_SECTION:activity-->
 ---
 ### 📊 GitHub Stats
