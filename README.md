@@ -91,7 +91,7 @@
 <a href="https://github.com/Eli4479" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
-<a href="https://linkedin.com/in/aryanpatel2525" target="_blank">
+<a href="https://www.linkedin.com/in/aryan-patel-49b29b225/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 <a href="https://codeforces.com/profile/aryan2525" target="_blank">
