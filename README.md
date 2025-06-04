@@ -109,10 +109,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/AOSSIE-Org/DebateAI/issues/91) in [AOSSIE-Org/DebateAI](https://github.com/AOSSIE-Org/DebateAI)
-2. 🗣 Commented on [#36](https://github.com/AOSSIE-Org/InPactAI/issues/36) in [AOSSIE-Org/InPactAI](https://github.com/AOSSIE-Org/InPactAI)
-3. 🗣 Commented on [#1631](https://github.com/TypeCellOS/BlockNote/issues/1631) in [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
-4. ❌ Closed PR [#318](https://github.com/piyushgarg-dev/piyushgargdev-nextjs/pull/318) in [piyushgarg-dev/piyushgargdev-nextjs](https://github.com/piyushgarg-dev/piyushgargdev-nextjs)
+1. 🗣 Commented on [#64](https://github.com/AOSSIE-Org/Devr.AI/issues/64) in [AOSSIE-Org/Devr.AI](https://github.com/AOSSIE-Org/Devr.AI)
+2. 🗣 Commented on [#91](https://github.com/AOSSIE-Org/DebateAI/issues/91) in [AOSSIE-Org/DebateAI](https://github.com/AOSSIE-Org/DebateAI)
+3. 🗣 Commented on [#36](https://github.com/AOSSIE-Org/InPactAI/issues/36) in [AOSSIE-Org/InPactAI](https://github.com/AOSSIE-Org/InPactAI)
+4. 🗣 Commented on [#1631](https://github.com/TypeCellOS/BlockNote/issues/1631) in [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
 <!--END_SECTION:activity-->
 ---
 ### 📊 GitHub Stats
