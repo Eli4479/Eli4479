@@ -109,10 +109,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/AOSSIE-Org/Devr.AI/pull/74) in [AOSSIE-Org/Devr.AI](https://github.com/AOSSIE-Org/Devr.AI)
-2. 🗣 Commented on [#64](https://github.com/AOSSIE-Org/Devr.AI/issues/64) in [AOSSIE-Org/Devr.AI](https://github.com/AOSSIE-Org/Devr.AI)
-3. 🗣 Commented on [#91](https://github.com/AOSSIE-Org/DebateAI/issues/91) in [AOSSIE-Org/DebateAI](https://github.com/AOSSIE-Org/DebateAI)
-4. 🗣 Commented on [#36](https://github.com/AOSSIE-Org/InPactAI/issues/36) in [AOSSIE-Org/InPactAI](https://github.com/AOSSIE-Org/InPactAI)
+1. 🗣 Commented on [#37](https://github.com/binbard/leet-xt/issues/37) in [binbard/leet-xt](https://github.com/binbard/leet-xt)
+2. 💪 Opened PR [#74](https://github.com/AOSSIE-Org/Devr.AI/pull/74) in [AOSSIE-Org/Devr.AI](https://github.com/AOSSIE-Org/Devr.AI)
+3. 🗣 Commented on [#64](https://github.com/AOSSIE-Org/Devr.AI/issues/64) in [AOSSIE-Org/Devr.AI](https://github.com/AOSSIE-Org/Devr.AI)
+4. 🗣 Commented on [#91](https://github.com/AOSSIE-Org/DebateAI/issues/91) in [AOSSIE-Org/DebateAI](https://github.com/AOSSIE-Org/DebateAI)
 <!--END_SECTION:activity-->
 ---
 ### 📊 GitHub Stats
