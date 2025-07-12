@@ -109,10 +109,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/AOSSIE-Org/InPactAI/issues/69) in [AOSSIE-Org/InPactAI](https://github.com/AOSSIE-Org/InPactAI)
-2. ❌ Closed PR [#39](https://github.com/binbard/leet-xt/pull/39) in [binbard/leet-xt](https://github.com/binbard/leet-xt)
-3. 💪 Opened PR [#39](https://github.com/binbard/leet-xt/pull/39) in [binbard/leet-xt](https://github.com/binbard/leet-xt)
-4. 💪 Opened PR [#69](https://github.com/AOSSIE-Org/InPactAI/pull/69) in [AOSSIE-Org/InPactAI](https://github.com/AOSSIE-Org/InPactAI)
+1. 🗣 Commented on [#1](https://github.com/Eli4479/Leet-Search/issues/1) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
+2. 🔒 Closed issue [#1](https://github.com/Eli4479/Leet-Search/issues/1) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
+3. 🔒 Reopened issue [#1](https://github.com/Eli4479/Leet-Search/issues/1) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
+4. 🗣 Commented on [#1](https://github.com/Eli4479/Leet-Search/issues/1) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
 <!--END_SECTION:activity-->
 ---
 ### 📊 GitHub Stats
