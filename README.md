@@ -109,10 +109,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#41](https://github.com/binbard/leet-xt/issues/41) in [binbard/leet-xt](https://github.com/binbard/leet-xt)
-2. 🗣 Commented on [#1](https://github.com/Eli4479/Leet-Search/issues/1) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
+1. 🗣 Commented on [#41](https://github.com/binbard/leet-xt/issues/41) in [binbard/leet-xt](https://github.com/binbard/leet-xt)
+2. ❗ Opened issue [#41](https://github.com/binbard/leet-xt/issues/41) in [binbard/leet-xt](https://github.com/binbard/leet-xt)
 3. 🗣 Commented on [#1](https://github.com/Eli4479/Leet-Search/issues/1) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
-4. 🔒 Closed issue [#1](https://github.com/Eli4479/Leet-Search/issues/1) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
+4. 🗣 Commented on [#1](https://github.com/Eli4479/Leet-Search/issues/1) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
 <!--END_SECTION:activity-->
 ---
 ### 📊 GitHub Stats
