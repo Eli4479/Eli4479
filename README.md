@@ -109,10 +109,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/fjzzq2002/is-my-problem-new/issues/5) in [fjzzq2002/is-my-problem-new](https://github.com/fjzzq2002/is-my-problem-new)
-2. 🔒 Closed issue [#5](https://github.com/Eli4479/Leet-Search/issues/5) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
-3. 🔒 Closed issue [#6](https://github.com/Eli4479/Leet-Search/issues/6) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
-4. ❗ Opened issue [#6](https://github.com/Eli4479/Leet-Search/issues/6) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
+1. 🔒 Reopened issue [#5](https://github.com/fjzzq2002/is-my-problem-new/issues/5) in [fjzzq2002/is-my-problem-new](https://github.com/fjzzq2002/is-my-problem-new)
+2. 🔒 Closed issue [#5](https://github.com/fjzzq2002/is-my-problem-new/issues/5) in [fjzzq2002/is-my-problem-new](https://github.com/fjzzq2002/is-my-problem-new)
+3. 🔒 Closed issue [#5](https://github.com/Eli4479/Leet-Search/issues/5) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
+4. 🔒 Closed issue [#6](https://github.com/Eli4479/Leet-Search/issues/6) in [Eli4479/Leet-Search](https://github.com/Eli4479/Leet-Search)
 <!--END_SECTION:activity-->
 ---
 ### 📊 GitHub Stats
